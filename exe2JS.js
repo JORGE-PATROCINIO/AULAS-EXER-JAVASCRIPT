@@ -1,7 +1,7 @@
 /* Faça um programa que receba a idade de um nadador e mostre sua categoria, para uma competição usando as regras a seguir. Para idade inferior a 5, deverá mostrar alguma mensagem.
 
    CATEGORIA	                  IDADE
-    Infantil	                5 a 7 anos
+    Infantil	                 5 a 7 anos
     Juvenil - Nivel 1	        8 a 10 anos
     Juvenil - Nivel 2	        11 a  15 anos
     Adulto	                    16 a 30 anos
